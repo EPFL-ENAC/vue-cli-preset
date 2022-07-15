@@ -18,7 +18,7 @@
         "commit"
       ]
     },
-    "@vue/cli-plugin-unit-mocha": {}
+    "@vue/cli-plugin-unit-jest": {}
   },
   "vueVersion": "2",
   "cssPreprocessor": "dart-sass"
